@@ -6,7 +6,7 @@ across cities and identify under-resourced regions using Python-based data analy
 
 ## Tools & Technologies
 - Python
-- Pandas, NumPy
+- Pandas
 - Matplotlib
 - Jupyter Notebook
 
